@@ -1,0 +1,1 @@
+export const calculateSize = (data: string) => data.length * 2;

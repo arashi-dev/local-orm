@@ -1,0 +1,1 @@
+export const SETTINGS_NAME = "__storage_orm"

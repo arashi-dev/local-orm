@@ -1,0 +1,11 @@
+/node_modules/
+/.vscode/
+/dist/
+
+tsconfig.json
+
+webpack.common.js
+webpack.dev.js
+webpack.prod.js
+
+temp/
